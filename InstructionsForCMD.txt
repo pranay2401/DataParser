@@ -1,0 +1,12 @@
+Instructions : 
+1. cd into DataParser\src
+
+2. javac -cp jackson-all-1.9.0.jar DataParser.java
+
+3. java -cp jackson-all-1.9.0.jar DataParser.java C:\projects\DataParser\data.json
+		OR 
+	java -cp jackson-all-1.9.0.jar DataParser.java ..\data.json
+
+
+C:\projects\DataParser\data.json -> data file
+C:\projects\DataParser\data.csv -> data file
